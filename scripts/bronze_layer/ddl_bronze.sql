@@ -2,7 +2,6 @@
 --  SCHEMA: bronze
 --  PURPOSE: Base layer for CRM & ERP data ingestion (Bronze)
 --  AUTHOR: Ashirwad Gupta
---  CREATED: CURRENT_DATE
 -- ============================================================
 
 -- 1️⃣ Create Schema
